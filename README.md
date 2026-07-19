@@ -10,7 +10,7 @@ Welcome to my interactive progress tracker! This repository documents my dedicat
 
 | Phase | Core Focus | Status | Progress |
 | :--- | :--- | :---: | :---: |
-| **01** | Programming Basics & Core Syntax | 🔄 Almost Done | ![Progress](https://geps.dev/progress/75) |
+| **01** | Programming Basics & Core Syntax | Done | ![Progress](https://geps.dev/progress/100) |
 | **02** | Program Flow & Data Manipulation | ⏳ Pending | ![Progress](https://geps.dev/progress/0) |
 | **03** | Structuring & Organizing Code | ⏳ Pending | ![Progress](https://geps.dev/progress/0) |
 | **04** | Advanced Concepts & Systems | ⏳ Pending | ![Progress](https://geps.dev/progress/0) |
@@ -25,7 +25,7 @@ Welcome to my interactive progress tracker! This repository documents my dedicat
 - [x] [Comments](./01-programming-basics/01-comments.py) — *Documenting intent and maintaining code readability.*
 - [x] [Variables and Data Types](./01-programming-basics/02-variables-and-data-types.py) — *Dynamic type allocation and data states.*
 - [x] [In-Depth Strings](./01-programming-basics/03-in-depth-strings.py) — *Slicing, formatting, and string manipulation methods.*
-- [ ] [Print Statements](./01-programming-basics/04-print-statements.py) — *Console streaming and standard formatted outputs.*
+- [x] [Print Statements](./01-programming-basics/04-print-statements.py) — *Console streaming and standard formatted outputs.*
 
 ### 🔄 [02-program-flow](./02-program-flow/)
 *Making programs interactive, optimizing data states, and managing control paths.*
