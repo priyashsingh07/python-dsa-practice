@@ -10,7 +10,7 @@ Welcome to my interactive progress tracker! This repository documents my dedicat
 
 | Phase | Core Focus | Status | Progress |
 | :--- | :--- | :---: | :---: |
-| **01** | Programming Basics & Core Syntax | 🔄 In Progress | ![Progress](https://geps.dev/progress/75) |
+| **01** | Programming Basics & Core Syntax | 🔄 Almost Done | ![Progress](https://geps.dev/progress/75) |
 | **02** | Program Flow & Data Manipulation | ⏳ Pending | ![Progress](https://geps.dev/progress/0) |
 | **03** | Structuring & Organizing Code | ⏳ Pending | ![Progress](https://geps.dev/progress/0) |
 | **04** | Advanced Concepts & Systems | ⏳ Pending | ![Progress](https://geps.dev/progress/0) |
