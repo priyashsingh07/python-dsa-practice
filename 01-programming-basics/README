@@ -1,14 +1,44 @@
-### 📦 01-programming-basics
+<h3>📦 01-programming-basics</h3>
 
-*Foundational building blocks needed to write and understand clean code scripts.*
+<p><i>Foundational building blocks needed to write and understand clean code scripts.</i></p>
 
-| Status | Module Topic | Core Focus & Concepts Covered | Source Code Link |
-| :---: | :--- | :--- | :---: |
-| ✅ | **Comments** | Single/multi-line syntax, code documentation intent, and readability. | [View Code ↗](01-comments.py) |
-| ✅ | **Variables & Data Types** | Dynamic type allocation, value states, and basic memory concepts. | [View Code ↗](02-variables-and-data-types.py) |
-| ✅ | **In-Depth Strings** | Forward/negative indexing, advanced slicing tricks, and immutability. | [View Code ↗](03-in-depth-strings.py) |
-| ✅ | **Print Statements** | F-strings formatting, decimal rounding, escape sequences, and raw paths. | [View Code ↗](04-print-statements.py) |
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="center">Status</th>
+      <th align="left">Module Topic</th>
+      <th align="left">Core Focus & Concepts Covered</th>
+      <th align="center">Source Code Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">✅</td>
+      <td><b>Comments</b></td>
+      <td>Single/multi-line syntax, code documentation intent, and readability.</td>
+      <td align="center"><a href="01-comments.py">View Code ↗</a></td>
+    </tr>
+    <tr>
+      <td align="center">✅</td>
+      <td><b>Variables & Data Types</b></td>
+      <td>Dynamic type allocation, value states, and basic memory concepts.</td>
+      <td align="center"><a href="02-variables-and-data-types.py">View Code ↗</a></td>
+    </tr>
+    <tr>
+      <td align="center">✅</td>
+      <td><b>In-Depth Strings</b></td>
+      <td>Forward/negative indexing, advanced slicing tricks, and immutability.</td>
+      <td align="center"><a href="03-in-depth-strings.py">View Code ↗</a></td>
+    </tr>
+    <tr>
+      <td align="center">✅</td>
+      <td><b>Print Statements</b></td>
+      <td>F-strings formatting, decimal rounding, escape sequences, and raw paths.</td>
+      <td align="center"><a href="04-print-statements.py">View Code ↗</a></td>
+    </tr>
+  </tbody>
+</table>
 
----
+<hr>
 
-📊 **Chapter Progress:** `4 / 4 Modules Completed (100%)`
+<p>📊 <b>Chapter Progress:</b> <code>4 / 4 Modules Completed (100%)</code></p>
