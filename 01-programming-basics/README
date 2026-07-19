@@ -2,7 +2,12 @@
 
 *Foundational building blocks needed to write and understand clean code scripts.*
 
-- [x] [Comments](01-comments.py) — *Documenting intent and maintaining code readability.*
-- [x] [Variables and Data Types](02-variables-and-data-types.py) — *Dynamic type allocation and data states.*
-- [x] [In-Depth Strings](03-in-depth-strings.py) — *Slicing, formatting, and string manipulation methods.*
-- [x] [Print Statements](04-print-statements.py) — *Console streaming and standard formatted outputs.*
+| Status | Module Topic | Core Focus & Concepts Covered | Source Code Link |
+| :---: | :--- | :--- | :---: |
+| ✅ | **Comments** | Single/multi-line syntax, code documentation intent, and readability. | [View Code ↗](01-comments.py) |
+| ✅ | **Variables & Data Types** | Dynamic type allocation, value states, and basic memory concepts. | [View Code ↗](02-variables-and-data-types.py) |
+| ✅ | **In-Depth Strings** | Forward/negative indexing, advanced slicing tricks, and immutability. | [View Code ↗](03-in-depth-strings.py) |
+| ✅ | **Print Statements** | F-strings formatting, decimal rounding, escape sequences, and raw paths. | [View Code ↗](04-print-statements.py) |
+
+---
+📊 **Chapter Progress:** `4 / 4 Modules Completed (100%)`
