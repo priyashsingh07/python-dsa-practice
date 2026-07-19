@@ -1,1 +1,7 @@
+### 📦 [01-programming-basics](./01-programming-basics/)
+*Foundational building blocks needed to write and understand clean code scripts.*
+- [x] [Comments](./01-programming-basics/01-comments.py) — *Documenting intent and maintaining code readability.*
+- [x] [Variables and Data Types](./01-programming-basics/02-variables-and-data-types.py) — *Dynamic type allocation and data states.*
+- [ ] [In-Depth Strings](./01-programming-basics/03-in-depth-strings.py) — *Slicing, formatting, and string manipulation methods.*
+- [ ] [Print Statements](./01-programming-basics/04-print-statements.py) — *Console streaming and standard formatted outputs.*
 
