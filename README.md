@@ -10,7 +10,7 @@ Welcome to my interactive progress tracker! This repository documents my dedicat
 
 | Phase | Core Focus | Status | Progress |
 | :--- | :--- | :---: | :---: |
-| **01** | Programming Basics & Core Syntax | 🔄 In Progress | ![Progress](https://geps.dev/progress/0) |
+| **01** | Programming Basics & Core Syntax | 🔄 In Progress | ![Progress](https://geps.dev/progress/25) |
 | **02** | Program Flow & Data Manipulation | ⏳ Pending | ![Progress](https://geps.dev/progress/0) |
 | **03** | Structuring & Organizing Code | ⏳ Pending | ![Progress](https://geps.dev/progress/0) |
 | **04** | Advanced Concepts & Systems | ⏳ Pending | ![Progress](https://geps.dev/progress/0) |
@@ -22,7 +22,7 @@ Welcome to my interactive progress tracker! This repository documents my dedicat
 
 ### 📦 [01-programming-basics](./01-programming-basics/)
 *Foundational building blocks needed to write and understand clean code scripts.*
-- [ ] [Comments](./01-programming-basics/01-comments.py) — *Documenting intent and maintaining code readability.*
+- [x] [Comments](./01-programming-basics/01-comments.py) — *Documenting intent and maintaining code readability.*
 - [ ] [Variables and Data Types](./01-programming-basics/02-variables-and-data-types.py) — *Dynamic type allocation and data states.*
 - [ ] [In-Depth Strings](./01-programming-basics/03-in-depth-strings.py) — *Slicing, formatting, and string manipulation methods.*
 - [ ] [Print Statements](./01-programming-basics/04-print-statements.py) — *Console streaming and standard formatted outputs.*
