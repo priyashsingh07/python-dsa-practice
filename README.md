@@ -11,7 +11,7 @@ Welcome to my interactive progress tracker! This repository documents my dedicat
 | Phase | Core Focus | Status | Progress |
 | :--- | :--- | :---: | :---: |
 | **01** | Programming Basics & Core Syntax | Done | ![Progress](https://geps.dev/progress/100) |
-| **02** | Program Flow & Data Manipulation | ⏳ Pending | ![Progress](https://geps.dev/progress/0) |
+| **02** | Program Flow & Data Manipulation | ⏳ In process | ![Progress](https://geps.dev/progress/0) |
 | **03** | Structuring & Organizing Code | ⏳ Pending | ![Progress](https://geps.dev/progress/0) |
 | **04** | Advanced Concepts & Systems | ⏳ Pending | ![Progress](https://geps.dev/progress/0) |
 | **05** | Practice & Capstone Application | ⏳ Pending | ![Progress](https://geps.dev/progress/0) |
